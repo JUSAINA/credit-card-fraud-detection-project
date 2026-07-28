@@ -1,0 +1,4 @@
+Rows: 283726
+Columns: 31
+Duplicates Removed: 1081
+Missing Values: 0
